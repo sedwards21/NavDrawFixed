@@ -1,0 +1,4 @@
+/Users/sedwards/Documents/AndroidNavigationDrawer-master/app/build/intermediates/classes/debug
+/Users/sedwards/Documents/AndroidNavigationDrawer-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-7f6b55daa0e8723063b0f05f23e9c18e9315b5be.jar
+/Users/sedwards/Documents/AndroidNavigationDrawer-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-7a610c7ba9858ff3425717ba09032d9f5eae58d0.jar
+/Users/sedwards/Documents/AndroidNavigationDrawer-master/app/build/intermediates/pre-dexed/debug/classes-411a2949780a9c6f8b3e636ed84fba0f02470fb8.jar
